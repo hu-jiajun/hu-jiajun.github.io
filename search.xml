@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>吃透flex布局</title>
+    <url>/2020/09/07/flex/</url>
+    <content><![CDATA[<p>##flex布局一直在用，但是遇到某些问题时总是稀里糊涂的</p>
+]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>css</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>随便写写</title>
     <url>/2020/08/17/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/</url>
     <content><![CDATA[<p>以前看到别人的博客，感觉好酷炫，好高端。这两天趁着手里没项目，匆匆忙忙中总算是搞成了，一个小菜鸡也有自己的博客了，希望自己以后可以养成记录的习惯吧。</p>
